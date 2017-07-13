@@ -376,7 +376,7 @@
             "showTitle": false,
             "showText": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://www.subscribepage.com/QUICKOVERVIEW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Click for a quick overview of the business &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://www.subscribepage.com/QUICKOVERVIEW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click for a quick overview of the business</a>",
           "title": "z",
           "text": ""
         },
