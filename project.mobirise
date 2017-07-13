@@ -407,7 +407,19 @@
               "font-size": "20px"
             },
             "UL": {
-              "font-size": "17px"
+              "font-size": "10px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-price-figure": {
+              "font-size": "46px"
+            },
+            ".mbr-plan-price-desc": {
+              "font-size": "21px"
+            },
+            ".mbr-plan-price-desc B": {
+              "color": "#28324e",
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -435,37 +447,37 @@
             "firstType": "",
             "showButtons": false,
             "secondType": "",
-            "thirdType": "hidden",
+            "thirdType": "",
             "fourthType": ""
           },
           "title": "Your Startup Options",
-          "subtitle": "Below are a list of flexible options for all.",
+          "subtitle": "Below are a list of flexible options.",
           "label1": "HOT!",
           "title1": "MAIN",
           "subtitle1": "Main Program",
           "currency1": "₦",
-          "price1": "400,000<br>",
+          "price1": "110,000<br>",
           "period1": "",
-          "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Earning Potential -&nbsp;<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">₦850,000 to ₦1.1m</span></li></ul>",
+          "description1": "Earning Potential -<br><b> ₦220k to ₦300k</b>",
+          "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "V.I.P",
           "subtitle2": "Main Program",
           "currency2": "₦",
-          "price2": "1,400,000",
+          "price2": "400,000",
           "period2": "",
-          "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Earning Potential -&nbsp;<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">₦3m to ₦4.5m</span></li><br></ul>",
+          "description2": "Earning Potential - <br><b>₦850k to ₦1.1m</b>",
+          "list2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
           "subtitle3": "Description",
           "currency3": "₦",
-          "price3": "0",
+          "price3": "1,400,000",
           "period3": "",
-          "description3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">text</li><li class=\"list-group-item\">text</li><li class=\"list-group-item\">text</li></ul>",
+          "description3": "Earning Potential - <br><b>₦3m to ₦4.5m</b>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -473,8 +485,8 @@
           "currency4": "₦",
           "price4": "4,800,000",
           "period4": "",
-          "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Earning Potential -&nbsp;<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">₦12m to ₦15m</span></li></ul>",
+          "description4": "Earning Potential -&nbsp;<br><b>₦12m to ₦15m</b>",
+          "list4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
