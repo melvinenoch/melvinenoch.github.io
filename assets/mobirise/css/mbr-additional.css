@@ -614,3 +614,10 @@ h6,
 #social-buttons4-r .mbr-section-title {
   font-size: 25px;
 }
+#msg-box3-t .mbr-section-title,
+#msg-box3-t p {
+  color: #000;
+}
+#msg-box3-t .btn {
+  font-size: 14px;
+}
