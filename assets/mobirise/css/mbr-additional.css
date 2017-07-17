@@ -604,13 +604,13 @@ h6,
 #msg-box3-e .mbr-section-title {
   font-size: 24px;
 }
-#social-buttons4-c .mbr-section-title,
-#social-buttons4-c .btn-social {
-  color: #fff;
-}
-#social-buttons4-c .mbr-section-title {
-  font-size: 25px;
-}
 #footer1-f P {
   font-size: 12px;
+}
+#social-buttons4-r .mbr-section-title,
+#social-buttons4-r .btn-social {
+  color: #fff;
+}
+#social-buttons4-r .mbr-section-title {
+  font-size: 25px;
 }
